@@ -1,6 +1,6 @@
-# Project Name
+# Standard Github Repository Template
 
-A brief description of what this project does and who it's for
+This is a starter repo template anyone can use to make starting a github repository easier!
 
 ## Table of Contents
 
